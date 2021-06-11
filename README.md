@@ -5,13 +5,13 @@
 - 🔭 Currently working on descovering my technical passion. 
 - 🌱 Currently learning __Web development__ and whatever else comes in mind. 😆
 - 👯 Looking to collaborate with other passion seekers.
-- 🥅 Future Goals: Contribute more to Open Source projects and programming in general.
+- 🥅 Future Goals: To contribute more to Open Source projects and programming in general.
 - ⚡ Fun fact: I'm into video editing and just chilling 😎
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aziz-Alarfaj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Aziz-Alarfaj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -36,7 +36,7 @@
 
 ---
 
-  <img align="left" alt="Aziz-Alarfaj's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Aziz-Alarfaj&show_icons=true&hide_border=true" />
+  <img align="left" alt="Aziz-Alarfaj's GitHub Stats" src="https://github-readme-stats.Aziz-Alarfaj.vercel.app/api?username=Aziz-Alarfaj&show_icons=true&hide_border=true" />
 
 
 [twitter]: ad
