@@ -2,7 +2,10 @@
 
 <img align="left" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
-## I'm a Software Engineering student lost in the world of programming 🥴
+<br />
+<br />
+
+## Software Engineering student lost in the world of programming 🥴
 
 - 🔭 Currently working on descovering my technical passion. 
 - 🌱 Currently learning __Web development__ and whatever else comes in mind. 😆
