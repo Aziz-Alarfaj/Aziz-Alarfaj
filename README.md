@@ -1,11 +1,13 @@
 ### Hello World, I'm Abdulaziz 👋
 
+<img align="left" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
+
 ## I'm a Software Engineering student lost in the world of programming 🥴
 
 - 🔭 Currently working on descovering my technical passion. 
 - 🌱 Currently learning __Web development__ and whatever else comes in mind. 😆
 - 👯 Looking to collaborate with other passion seekers.
-- 🥅 Future Goals: To contribute more to Open Source projects and programming in general.
+- 🥅 Future Goals: To contribute more to Open Source projects and Programming in general.
 - ⚡ Fun fact: I'm into video editing and just chilling 😎
 
 ### Connect with me:
@@ -36,7 +38,10 @@
 
 ---
 
-  <img align="left" alt="Aziz-Alarfaj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aziz-Alarfaj&show_icons=true&hide_border=true" />
+<img align="left" alt="Aziz-Alarfaj's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aziz-Alarfaj&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aziz-Alarfaj)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [twitter]: ad
