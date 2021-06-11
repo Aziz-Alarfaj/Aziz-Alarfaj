@@ -1,6 +1,6 @@
 ### Hello World, I'm Abdulaziz 👋
 
-<img align="left" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
 <br />
 <br />
