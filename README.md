@@ -1,10 +1,10 @@
-### Hello World, I'm Aziz Alarfaj 👋
+### Hello World, I'm Abdulaziz 👋
 
-## I'm a Senior Software Engineering student lost in the world of programming 🥴
+## I'm a Software Engineering student lost in the world of programming 🥴
 
-- 🔭 I'm currently working on descovering my technical passion. 
-- 🌱 I’m currently learning web development and whatever else comes in mind. 😆
-- 👯 I’m looking to collaborate with other passion seekers.
+- 🔭 Currently working on descovering my technical passion. 
+- 🌱 Currently learning __Web development__ and whatever else comes in mind. 😆
+- 👯 Looking to collaborate with other passion seekers.
 - 🥅 Future Goals: Contribute more to Open Source projects and programming in general.
 - ⚡ Fun fact: I'm into video editing and just chilling 😎
 
@@ -35,6 +35,13 @@
 <br />
 
 ---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Aziz-Alarfaj&show_icons=true&hide_border=true" />
+
+</details>
 
 </details>
 
