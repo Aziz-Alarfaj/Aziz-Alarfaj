@@ -2,10 +2,10 @@
 
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
-## Software Engineering student, lost in the world of programming 👨‍💻
+## Software Engineer, lost in the world of programming 👨‍💻
 
-- 🔭 Working on descovering my technical passion. 
-- 🌱 Currently learning __Web development in__ <img alt="Python" width="16px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />, and whatever else comes in mind. 😆
+- 🔭 Continuously building my technical knowledge. 
+- 🌱 Currently learning __Web development in__ <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />, and whatever else comes in mind. 😆
 - 👯 Looking to collaborate with other passion seekers.
 - 🥅 Future Goals: Contribute more to Open Source projects and Programming in general.
 - ⚡ Fun fact: I'm into Video editing and Chilling 😎
@@ -27,6 +27,8 @@
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -47,8 +49,6 @@
 <img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 
 <br />
